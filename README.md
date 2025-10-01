@@ -14,7 +14,6 @@ Purpose of this Django project is to create a social platform where users can jo
 3. [App Source](#app-source)
 4. [Basic information about App](#app-description)
 5. [Project preview](#project-preview)
-6. [Project members](#project-members)
 7. [Project Technical Topics that Containing Now](#used-topics-at-this-time)
 
 # Prerequisites
@@ -137,27 +136,6 @@ Build a network of friends and interact with them through profiles and shared ac
 ![Снимок экрана (45)](https://github.com/user-attachments/assets/3854014b-1d75-4f6a-87c8-0c716367a060)
 ![Снимок экрана (46)](https://github.com/user-attachments/assets/7f13b5c8-0b04-47fe-adf8-385cd6c2f980)
 ![Снимок экрана (47)](https://github.com/user-attachments/assets/26636b62-321c-4ad3-a14a-7c8fe33a664c)
-
-
-
-
-
-
-
-
-
-
-
-# Project Members
-| Full Name | ID |
-|------------|-------------|
-|  Kuanyshbekov Madi  | 22B030384   |
-|   |     |
-|  Akhanayeva Aruzhan  | 22B030516   |
-|   |     |
-|  Zeinolla Dilnaz  | 22B031177    |
-|   |     |
-|  Nurgaliev Dias  | 22B031188   |
 
 
 
